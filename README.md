@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://dev.to/pieromacaluso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pieromacaluso" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/pieromacaluso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pieromacaluso" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/piero-macaluso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="piero-macaluso" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/7358319" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7358319" height="30" width="40" /></a>
 <a href="https://fb.com/macalusopi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="macalusopi" height="30" width="40" /></a>
 <a href="https://instagram.com/pieromack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pieromack" height="30" width="40" /></a>
 </p>
