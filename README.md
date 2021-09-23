@@ -12,7 +12,7 @@
 Computer Engineering alumnus at [Politecnico di Torino](https://www.polito.it/en). Deep Learning and Reinforcement Learning enthusiast and fascinated by everything that's CS related. Proudly from [Sanremo, Italy](https://goo.gl/maps/tADmFtxSbT1Npc8Y7)
 
 - 🎓 M.Sc. and B.Sc. in **Computer Engineering** at PoliTo
-- 🚗 I developed my Master's Thesis Project [Deep Reinforcement Learning for Autonomous Systems]() @ [Eurecom](https://www.eurecom.fr/en/home) in Sophia Antipolis, France
+- 🚗 I developed my Master's Thesis Project [Deep Reinforcement Learning for Autonomous Systems](github.com/PieroMacaluso/Deep-RL-Autonomous-Systems) @ [Eurecom](https://www.eurecom.fr/en/home) in Sophia Antipolis, France
 - 💻 I’m currently working as **AI Applied Researcher** @ [LINKS Foundation](https://www.linksfoundation.com)
 - 🌱 I’m currently learning **Deep Reinforcement Learning** and **Deep Learning** @ [Udacity](https://www.udacity.com/)
 - ⚙️ Mastering: `.py`, `.js`, `.ts`, `.c`, `.cpp`, `.html`, `.css`, 
