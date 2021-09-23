@@ -1,14 +1,32 @@
-<h1 align="center">Hi 👋, I'm Piero Macaluso</h1>
-<h3 align="center">I am a passionate Machine Learning and Deep Learning Researcher</h3>
+# Hello, I'm Piero Macaluso 👋
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/pieromacaluso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="pieromacaluso" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pieromacaluso" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="pieromacaluso" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/7358319" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="7358319" height="30" width="40" /></a>
-<a href="https://fb.com/macalusopi" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="macalusopi" height="30" width="40" /></a>
-<a href="https://instagram.com/pieromack" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="pieromack" height="30" width="40" /></a>
-</p>
+![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
+![HTML](https://img.shields.io/badge/HTML-Expert-orange)
+![CSS](https://img.shields.io/badge/CSS-Expert-blue)
+![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
+![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+Computer Engineering alumnus at [Politecnico di Torino](https://www.polito.it/en). Deep Learning and Reinforcement Learning enthusiast with passion for videogames, played or created alike. Fascinated by everything that's CS related. Proudly from [Sanremo, Italy](https://goo.gl/maps/tADmFtxSbT1Npc8Y7) 🇮🇹
+
+- 🔭 M.Sc. in **Computer Engineering** at PoliTo
+- 🌱 I’m currently working as **AI Applied Researcher** @ [LINKS Foundation](https://www.linksfoundation.com)
+- 🌱 I’m currently learning **Deep Reinforcement Learning** and **Deep Learning** @ [Udacity](https://www.udacity.com/)
+- ⚙️ Mastering: `.py`, `.js`, `.ts`, `.c`, `.cpp`, `.html`, `.css`, 
+- 👯 I’m looking to collaborate on **Open Source** and/or **Artificial Intelligence** projects
+- 💬 I'm mostly active within the **Artificial Intelligence**, **Vue.JS**, **Angular** and **FastAPI** communities
+
+### 📬 Get in Touch
+
+- StackOverflow: [stackoverflow.com/piero-macaluso][stackoverflow]
+- GitHub: [github.com/PieroMacaluso][github]
+- LinkedIn:  [linkedin.com/pieromacaluso/][linkedin]
+- E-mail: [piero.macaluso@outlook.com](mailto:piero.macaluso@outlook.com)
+
+### 📚 Looking for my Resume? E-Mail me!
+
+![Piero Macaluso's Github Stats](https://github-readme-stats.vercel.app/api?username=PieroMacaluso&show_icons=true&hide_border=true)
+
+[stackoverflow]: https://stackoverflow.com/users/7358319/piero-macaluso
+[github]: https://github.com/PieroMacaluso
+[linkedin]: https://linkedin.com/in/pieromacaluso/
