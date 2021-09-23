@@ -9,7 +9,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-Beginner-yellow)
 ![TypeScript](https://img.shields.io/badge/TypeScript-Intermediate-lightgrey)
 
-Computer Engineering alumnus at [Politecnico di Torino](https://www.polito.it/en). Deep Learning and Reinforcement Learning enthusiast and fascinated by everything that's CS related. Proudly from [Sanremo, Italy](https://goo.gl/maps/tADmFtxSbT1Npc8Y7) 🇮🇹
+Computer Engineering alumnus at [Politecnico di Torino](https://www.polito.it/en). Deep Learning and Reinforcement Learning enthusiast and fascinated by everything that's CS related. Proudly from [Sanremo, Italy](https://goo.gl/maps/tADmFtxSbT1Npc8Y7)
 
 - 🎓 M.Sc. and B.Sc. in **Computer Engineering** at PoliTo
 - 🚗 I developed my Master's Thesis Project [Deep Reinforcement Learning for Autonomous Systems]() @ [Eurecom](https://www.eurecom.fr/en/home) in Sophia Antipolis, France
