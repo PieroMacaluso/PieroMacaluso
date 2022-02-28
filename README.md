@@ -14,10 +14,10 @@ Computer Engineering alumnus at [Politecnico di Torino](https://www.polito.it/en
 - 🎓 M.Sc. and B.Sc. in **Computer Engineering** at PoliTo
 - 🚗 I developed my Master's Thesis Project [Deep Reinforcement Learning for Autonomous Systems](github.com/PieroMacaluso/Deep-RL-Autonomous-Systems) @ [Eurecom](https://www.eurecom.fr/en/home) in Sophia Antipolis, France
 - 💻 I’m currently working as **AI Applied Researcher** @ [LINKS Foundation](https://www.linksfoundation.com)
-- 🌱 I’m currently learning **Deep Reinforcement Learning** and **Deep Learning** @ [Udacity](https://www.udacity.com/)
-- ⚙️ Mastering: `.py`, `.js`, `.ts`, `.c`, `.cpp`, `.html`, `.css`, 
+- 🌱 I obtained **Deep Reinforcement Learning** and **Deep Learning** Nanodegree @ [Udacity](https://www.udacity.com/)
+- ⚙️ Mastering: `.py`, `.c`, `.cpp`, `.js`, `.ts`, `.html`, `.css`, 
 - 👯 I’m looking to collaborate on **Open Source** and/or **Artificial Intelligence** projects
-- 💬 I'm mostly active within the **Artificial Intelligence**, **Vue.JS**, **Angular** and **FastAPI** communities
+- 💬 I'm mostly active within the **Artificial Intelligence**, **Angular** and **FastAPI** communities
 
 ### 📬 Get in Touch
 
