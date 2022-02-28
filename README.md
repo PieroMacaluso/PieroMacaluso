@@ -1,6 +1,6 @@
 # Hello, I'm Piero Macaluso 👋
 
-![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
+![Python](https://img.shields.io/badge/Python-Expert-yellow)
 ![C](https://img.shields.io/badge/C-Intermediate-green)
 ![C++](https://img.shields.io/badge/C++-Intermediate-lightgrey)
 ![Bash](https://img.shields.io/badge/Bash-Intermediate-black)
