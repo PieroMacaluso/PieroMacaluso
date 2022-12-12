@@ -14,6 +14,7 @@ Computer Engineering alumnus at [Politecnico di Torino](https://www.polito.it/en
 - 🎓 M.Sc. and B.Sc. in **Computer Engineering** at PoliTo
 - 🚗 I developed my Master's Thesis Project [Deep Reinforcement Learning for Autonomous Systems](github.com/PieroMacaluso/Deep-RL-Autonomous-Systems) @ [Eurecom](https://www.eurecom.fr/en/home) in Sophia Antipolis, France
 - 💻 I’m currently working as **AI Engineer - Autonomous Driving** @ [Stellantis](https://www.stellantis.com/en)
+- 💻 I’m CTO @ [Picopod](https://picopod.fm), a (not yet) start-up co-founded with [Jockbaia](https://github.com/Jockbaia).
 - 💻 I formerly worked as **AI Applied Researcher** @ [LINKS Foundation](https://www.linksfoundation.com) from April 2020 to June 2022.
 - 🌱 I obtained **Deep Reinforcement Learning** and **Deep Learning** Nanodegree @ [Udacity](https://www.udacity.com/)
 - ⚙️ Mastering: `.py`, `.c`, `.cpp`, `.js`, `.ts`, `.html`, `.css`, 
