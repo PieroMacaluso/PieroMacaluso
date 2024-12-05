@@ -13,12 +13,13 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FE4F40?style=for-the-badge&logo=redis&logoColor=white)
 
 Computer Engineering alumnus at [Politecnico di Torino](https://www.polito.it/en). Deep Learning and Reinforcement Learning enthusiast and fascinated by everything that's CS related. Proudly from [Sanremo, Italy](https://goo.gl/maps/tADmFtxSbT1Npc8Y7)
 
 - 🎓 M.Sc. and B.Sc. in **Computer Engineering** at PoliTo
 - 🚗 I developed my Master's Thesis Project [Deep Reinforcement Learning for Autonomous Systems](https://github.com/PieroMacaluso/Deep-RL-Autonomous-Systems) @ [Eurecom](https://www.eurecom.fr/en/home) in Sophia Antipolis, France
-- 💻 I’m currently working as **AI Engineer - Autonomous Driving** @ [Stellantis](https://www.stellantis.com/en)
+- 💻 I’m currently working as **Staff AI Engineer - Autonomous Driving Planning** @ [Stellantis](https://www.stellantis.com/en)
 - 💻 I’m CTO @ [Picopod](https://picopod.fm), a (not yet) start-up co-founded with [Jockbaia](https://github.com/Jockbaia).
 - 💻 I formerly worked as **AI Applied Researcher** @ [LINKS Foundation](https://www.linksfoundation.com) from April 2020 to June 2022.
 - 🌱 I obtained **Deep Reinforcement Learning** and **Deep Learning** Nanodegree @ [Udacity](https://www.udacity.com/)
