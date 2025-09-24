@@ -17,12 +17,14 @@
 
 Computer Engineering alumnus at [Politecnico di Torino](https://www.polito.it/en). Deep Learning and Reinforcement Learning enthusiast and fascinated by everything that's CS related. Proudly from [Sanremo, Italy](https://goo.gl/maps/tADmFtxSbT1Npc8Y7)
 
-- 🎓 M.Sc. and B.Sc. in **Computer Engineering** at PoliTo
-- 🚗 I developed my Master's Thesis Project [Deep Reinforcement Learning for Autonomous Systems](https://github.com/PieroMacaluso/Deep-RL-Autonomous-Systems) @ [Eurecom](https://www.eurecom.fr/en/home) in Sophia Antipolis, France
-- 💻 I’m currently working as **Staff AI Engineer - Autonomous Driving Planning** @ [Stellantis](https://www.stellantis.com/en)
+- 💻 I’m currently working as **Machine Learning Engineer** @ [Prima](https://www.prima.it/)
 - 💻 I’m CTO @ [Picopod](https://picopod.fm), a (not yet) start-up co-founded with [Jockbaia](https://github.com/Jockbaia).
-- 💻 I formerly worked as **AI Applied Researcher** @ [LINKS Foundation](https://www.linksfoundation.com) from April 2020 to June 2022.
-- 🌱 I obtained **Deep Reinforcement Learning** and **Deep Learning** Nanodegree @ [Udacity](https://www.udacity.com/)
+- 💻 I formerly worked as:
+  - **Staff AI Engineer - Autonomous Driving Planning** @ [Stellantis](https://www.stellantis.com/en) (Jul2022-Jul2025)
+  - **AI Applied Researcher** @ [LINKS Foundation](https://www.linksfoundation.com) (Apr2020-Jun2022)
+- 🎓 M.Sc. and B.Sc. in **Computer Engineering** at PoliTo
+  - 🚗 I developed my Master's Thesis Project [Deep Reinforcement Learning for Autonomous Systems](https://github.com/PieroMacaluso/Deep-RL-Autonomous-Systems) @ [Eurecom](https://www.eurecom.fr/en/home) in Sophia Antipolis, France
+- 🌱 I obtained **Deep Reinforcement Learning**, **Deep Learning**, **C++** Nanodegree @ [Udacity](https://www.udacity.com/)
 - ⚙️ Mastering: `.py`, `.c`, `.cpp`, `.js`, `.ts`, `.html`, `.css`, 
 - 👯 I’m looking to collaborate on **Open Source** and/or **Artificial Intelligence** projects
 - 💬 I'm mostly active within the **Artificial Intelligence**, **Angular** and **FastAPI** communities
